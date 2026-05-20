@@ -170,7 +170,7 @@ export default function FlyComponentsWebsite() {
 
               <div className="flex justify-between border-b pb-4">
                 <span className="text-gray-500">Service</span>
-                <span className="font-semibold">Cost-Effective & Reliable Supply Solutions</span>
+                <span className="font-semibold">Cost-Effective & Reliable</span>
               </div>
 
               <div className="flex justify-between">
