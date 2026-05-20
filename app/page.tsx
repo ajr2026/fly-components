@@ -154,8 +154,8 @@ export default function FlyComponentsWebsite() {
           <div className="bg-white rounded-3xl p-10 shadow-xl border border-gray-100">
             <div className="space-y-6">
               <div className="flex justify-between border-b pb-4">
-                <span className="text-gray-500">Business Type</span>
-                <span className="font-semibold">Trading Company</span>
+                <span className="text-gray-500">Products Type</span>
+                <span className="font-semibold">100% Original</span>
               </div>
 
               <div className="flex justify-between border-b pb-4">
