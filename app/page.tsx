@@ -241,8 +241,8 @@ export default function FlyComponentsWebsite() {
             </div>
 
             <div className="border border-gray-800 rounded-3xl p-8 bg-gray-900">
-              <p className="text-gray-400 mb-2">Service</p>
-              <p className="font-semibold">Global Electronic Components Supply</p>
+              <p className="text-gray-400 mb-2">Address</p>
+              <p className="font-semibold">UNIT B. 13/F SHING LEE COMMERCIAL BUILDING NO.8 WING KUT STREET CENTRAL HONGKONGG</p>
             </div>
           </div>
 
