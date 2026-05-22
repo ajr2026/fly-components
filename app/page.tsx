@@ -236,7 +236,7 @@ export default function FlyComponentsWebsite() {
             </div>
 
             <div className="border border-gray-800 rounded-3xl p-8 bg-gray-900">
-              <p className="text-gray-400 mb-2">WhatsApp</p>
+              <p className="text-gray-400 mb-2">Call</p>
               <p className="font-semibold">+852 9609 4695</p>
             </div>
 
